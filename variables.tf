@@ -3,5 +3,5 @@ variable "meh" {
 }
 
 output "meh" {
-  value = 1
+  value = "1"
 }
